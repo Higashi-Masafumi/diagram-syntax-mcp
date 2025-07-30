@@ -1,3 +1,4 @@
+import logging
 from pathlib import Path
 
 from mcp.server.fastmcp import FastMCP
@@ -7,6 +8,17 @@ from schemas.file_types import (
     FileMetadata,
     FileWithMetadata,
 )
+
+# Configure logging
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
+    handlers=[
+        logging.FileHandler('mcp-server.log'),
+        logging.StreamHandler()
+    ]
+)
+logger = logging.getLogger(__name__)
 
 # Initialize FastMCP server
 mcp = FastMCP("diagram-syntax-server")
@@ -53,15 +65,18 @@ def parse_frontmatter(content: str) -> tuple[FileMetadata, str]:
 
 def get_files_with_metadata() -> list[FileWithMetadata]:
     """Get list of all files with their metadata."""
+    logger.info("Starting to load files with metadata")
     files: list[FileWithMetadata] = []
     category_paths: list[Path] = [DRAWIO_PATH, MERMAID_PATH]
 
     for category_path in category_paths:
         if not category_path.exists():
+            logger.warning(f"Category path does not exist: {category_path}")
             continue
 
         category: str = category_path.name
         file_paths: list[Path] = list(category_path.glob("*.md"))
+        logger.info(f"Found {len(file_paths)} files in category '{category}'")
 
         for file_path in file_paths:
             try:
@@ -76,6 +91,7 @@ def get_files_with_metadata() -> list[FileWithMetadata]:
                 )
                 files.append(file_with_metadata)
             except Exception as e:
+                logger.error(f"Error reading file {file_path.name}: {e}")
                 error_file: FileWithMetadata = FileWithMetadata(
                     filename=file_path.name,
                     category=category,
@@ -88,6 +104,7 @@ def get_files_with_metadata() -> list[FileWithMetadata]:
     sorted_files: list[FileWithMetadata] = sorted(
         files, key=lambda x: (x.category, x.filename)
     )
+    logger.info(f"Loaded {len(sorted_files)} files total")
     return sorted_files
 
 
@@ -100,22 +117,28 @@ def get_file_content(file_paths: str) -> str:
 
     Returns the raw file content.
     """
+    logger.info(f"get_file_content called with: {file_paths}")
+    
     # Parse the input - handle both single files and comma-separated lists
     paths: list[str] = [path.strip() for path in file_paths.split(",") if path.strip()]
 
     if not paths:
+        logger.warning("No file paths provided")
         return "No file paths provided. Please specify one or more file paths separated by commas."
 
+    logger.info(f"Processing {len(paths)} file(s): {paths}")
     output: list[str] = []
 
     for file_path in paths:
         try:
             full_path: Path = DOCUMENTS_PATH / file_path
             if not full_path.exists():
+                logger.error(f"File not found: {file_path}")
                 output.append(f"Error: File not found - {file_path}")
                 continue
 
             content: str = full_path.read_text(encoding="utf-8")
+            logger.info(f"Successfully read file: {file_path} ({len(content)} characters)")
 
             if len(paths) > 1:
                 output.append(f"\n{'='*60}")
@@ -125,6 +148,7 @@ def get_file_content(file_paths: str) -> str:
             output.append(content)
 
         except Exception as e:
+            logger.error(f"Error reading {file_path}: {str(e)}")
             output.append(f"Error reading {file_path}: {str(e)}")
 
     return "\n".join(output)
@@ -139,14 +163,17 @@ def list_files_by_category(category: CategoryType | None = None) -> str:
 
     Returns filtered list of files or available categories.
     """
+    logger.info(f"list_files_by_category called with category: {category}")
     files: list[FileWithMetadata] = get_files_with_metadata()
 
     if not files:
+        logger.warning("No files found in documents directory")
         return "No files found in the documents directory."
 
     # If no category specified, list available categories
     if category is None:
         categories = sorted(set(file_info.category for file_info in files))
+        logger.info(f"Listing available categories: {categories}")
         result = ["Available categories:"]
         for cat in categories:
             count = sum(1 for f in files if f.category == cat)
@@ -155,8 +182,10 @@ def list_files_by_category(category: CategoryType | None = None) -> str:
 
     # Filter by category
     filtered_files = [f for f in files if f.category == category]
+    logger.info(f"Found {len(filtered_files)} files in category '{category}'")
 
     if not filtered_files:
+        logger.warning(f"No files found for category '{category}'")
         return f"No files found for category '{category}'."
 
     result_by_category: list[str] = [f"Files in category '{category}':\n"]
@@ -179,7 +208,7 @@ def list_files_by_category(category: CategoryType | None = None) -> str:
                 result_by_category.append(f"   Tags: {metadata.tags}")
         result_by_category.append("")  # Add blank line between files
 
-    return "\n".join(result)
+    return "\n".join(result_by_category)
 
 
 @mcp.tool()
@@ -191,9 +220,11 @@ def search_files_by_tag(tag: str) -> str:
 
     Returns files that contain the specified tag.
     """
+    logger.info(f"search_files_by_tag called with tag: {tag}")
     files: list[FileWithMetadata] = get_files_with_metadata()
 
     if not files:
+        logger.warning("No files found in documents directory")
         return "No files found in the documents directory."
 
     # Filter by tag
@@ -204,7 +235,9 @@ def search_files_by_tag(tag: str) -> str:
         if file_info.metadata.tags and tag.lower() in file_info.metadata.tags.lower():
             filtered_files.append(file_info)
 
+    logger.info(f"Found {len(filtered_files)} files with tag '{tag}'")
     if not filtered_files:
+        logger.warning(f"No files found with tag '{tag}'")
         return f"No files found with tag '{tag}'."
 
     result: list[str] = [f"Files with tag '{tag}':\n"]
@@ -229,4 +262,9 @@ def search_files_by_tag(tag: str) -> str:
 
 
 if __name__ == "__main__":
-    mcp.run(transport="stdio")
+    logger.info("Starting MCP server")
+    try:
+        mcp.run(transport="stdio")
+    except Exception as e:
+        logger.error(f"Server error: {e}")
+        raise
