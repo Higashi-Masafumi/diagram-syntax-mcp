@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "templates/software"
 type: "diagram"
 source_file: "templates/software/component_5_decoded.xml"
+tags: ["development", "software", "template", "architecture", "drawio"]
 ---
 
 # Component 5 Diagram

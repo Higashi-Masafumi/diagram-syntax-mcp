@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "examples"
 type: "diagram"
 source_file: "examples/ElectricalDiagram_decoded.xml"
+tags: ["circuit", "logic", "engineering", "venn", "electrical", "sample", "drawio", "example"]
 ---
 
 # Electricaldiagram Diagram

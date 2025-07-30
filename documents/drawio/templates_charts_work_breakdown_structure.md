@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "templates/charts"
 type: "diagram"
 source_file: "templates/charts/work_breakdown_structure_decoded.xml"
+tags: ["template", "chart", "visualization", "charts", "drawio", "data"]
 ---
 
 # Work Breakdown Structure Diagram

@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "templates/engineering"
 type: "diagram"
 source_file: "templates/engineering/fault_tree_5_decoded.xml"
+tags: ["engineering", "template", "technical", "electrical", "drawio"]
 ---
 
 # Fault Tree 5 Diagram

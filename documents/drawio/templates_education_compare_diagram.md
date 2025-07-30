@@ -4,6 +4,7 @@ description: "An organizational chart showing hierarchy and reporting structure"
 category: "templates/education"
 type: "orgchart"
 source_file: "templates/education/compare_diagram_decoded.xml"
+tags: ["logic", "template", "academic", "venn", "education", "drawio", "learning"]
 ---
 
 # Compare Diagram Orgchart

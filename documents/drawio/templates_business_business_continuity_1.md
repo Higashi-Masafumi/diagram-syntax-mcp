@@ -4,6 +4,7 @@ description: "A flowchart diagram showing process flow and decision points"
 category: "templates/business"
 type: "flowchart"
 source_file: "templates/business/business_continuity_1_decoded.xml"
+tags: ["ui", "process", "template", "design", "business", "wireframe", "drawio", "workflow"]
 ---
 
 # Business Continuity 1 Flowchart

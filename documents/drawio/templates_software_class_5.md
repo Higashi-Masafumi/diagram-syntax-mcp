@@ -4,6 +4,7 @@ description: "A UML class diagram showing class relationships and structure"
 category: "templates/software"
 type: "class"
 source_file: "templates/software/class_5_decoded.xml"
+tags: ["development", "software", "template", "modeling", "architecture", "drawio", "uml"]
 ---
 
 # Class 5 Class

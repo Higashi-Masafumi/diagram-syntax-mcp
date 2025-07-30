@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "templates/charts"
 type: "diagram"
 source_file: "templates/charts/bar_chart_1_decoded.xml"
+tags: ["template", "chart", "visualization", "charts", "drawio", "data"]
 ---
 
 # Bar Chart 1 Diagram

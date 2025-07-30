@@ -4,6 +4,7 @@ description: "A flowchart diagram showing process flow and decision points"
 category: "templates/business"
 type: "flowchart"
 source_file: "templates/business/pert_3_decoded.xml"
+tags: ["process", "template", "business", "drawio", "workflow"]
 ---
 
 # Pert 3 Flowchart

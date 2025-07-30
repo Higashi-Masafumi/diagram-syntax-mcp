@@ -4,6 +4,7 @@ description: "A flowchart diagram showing process flow and decision points"
 category: "templates/network"
 type: "flowchart"
 source_file: "templates/network/cisco_4_decoded.xml"
+tags: ["network", "template", "drawio", "infrastructure", "topology"]
 ---
 
 # Cisco 4 Flowchart

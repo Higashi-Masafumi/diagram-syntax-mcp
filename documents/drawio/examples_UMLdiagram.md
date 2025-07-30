@@ -4,6 +4,7 @@ description: "A flowchart diagram showing process flow and decision points"
 category: "examples"
 type: "flowchart"
 source_file: "examples/UMLdiagram_decoded.xml"
+tags: ["logic", "modeling", "venn", "sample", "drawio", "uml", "example"]
 ---
 
 # Umldiagram Flowchart

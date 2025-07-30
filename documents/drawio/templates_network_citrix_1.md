@@ -4,6 +4,7 @@ description: "A user interface wireframe showing layout and structure"
 category: "templates/network"
 type: "wireframe"
 source_file: "templates/network/citrix_1_decoded.xml"
+tags: ["network", "template", "drawio", "infrastructure", "topology"]
 ---
 
 # Citrix 1 Wireframe

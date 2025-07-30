@@ -4,6 +4,7 @@ description: "A user interface wireframe showing layout and structure"
 category: "templates/charts"
 type: "wireframe"
 source_file: "templates/charts/org_chart_2_decoded.xml"
+tags: ["hierarchy", "template", "chart", "visualization", "orgchart", "charts", "drawio", "data"]
 ---
 
 # Org Chart 2 Wireframe

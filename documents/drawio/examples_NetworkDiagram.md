@@ -4,6 +4,7 @@ description: "A network topology diagram showing infrastructure components"
 category: "examples"
 type: "network"
 source_file: "examples/NetworkDiagram_decoded.xml"
+tags: ["logic", "network", "venn", "sample", "drawio", "infrastructure", "example"]
 ---
 
 # Networkdiagram Network

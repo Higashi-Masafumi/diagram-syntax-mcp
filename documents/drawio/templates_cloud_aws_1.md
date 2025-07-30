@@ -4,6 +4,7 @@ description: "A flowchart diagram showing process flow and decision points"
 category: "templates/cloud"
 type: "flowchart"
 source_file: "templates/cloud/aws_1_decoded.xml"
+tags: ["cloud", "template", "architecture", "drawio", "infrastructure"]
 ---
 
 # Aws 1 Flowchart

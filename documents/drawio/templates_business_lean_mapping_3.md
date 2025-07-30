@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "templates/business"
 type: "diagram"
 source_file: "templates/business/lean_mapping_3_decoded.xml"
+tags: ["process", "template", "business", "drawio", "workflow"]
 ---
 
 # Lean Mapping 3 Diagram

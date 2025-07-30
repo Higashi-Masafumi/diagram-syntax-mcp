@@ -4,6 +4,7 @@ description: "A user interface wireframe showing layout and structure"
 category: "examples"
 type: "wireframe"
 source_file: "examples/GanttChart_decoded.xml"
+tags: ["timeline", "gantt", "project", "sample", "drawio", "example"]
 ---
 
 # Ganttchart Wireframe

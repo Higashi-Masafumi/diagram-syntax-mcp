@@ -4,6 +4,7 @@ description: "A sequence diagram illustrating interactions between objects over 
 category: "templates/maps"
 type: "sequence"
 source_file: "templates/maps/impact_map_decoded.xml"
+tags: ["mindmap", "conceptual", "map", "template", "drawio", "maps"]
 ---
 
 # Impact Map Sequence

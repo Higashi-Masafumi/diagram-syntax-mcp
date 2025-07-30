@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "templates/other"
 type: "diagram"
 source_file: "templates/other/decision_tree_2_decoded.xml"
+tags: ["other", "miscellaneous", "template", "drawio", "utility"]
 ---
 
 # Decision Tree 2 Diagram

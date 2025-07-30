@@ -4,6 +4,7 @@ description: "A network topology diagram showing infrastructure components"
 category: "templates/other"
 type: "network"
 source_file: "templates/other/social_network_decoded.xml"
+tags: ["network", "other", "miscellaneous", "template", "drawio", "infrastructure", "utility"]
 ---
 
 # Social Network Network

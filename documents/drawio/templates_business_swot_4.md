@@ -4,6 +4,7 @@ description: "A SWOT analysis template for strategic planning"
 category: "templates/business"
 type: "swot"
 source_file: "templates/business/swot_4_decoded.xml"
+tags: ["analysis", "process", "template", "business", "swot", "strategy", "drawio", "workflow"]
 ---
 
 # Swot 4 Swot

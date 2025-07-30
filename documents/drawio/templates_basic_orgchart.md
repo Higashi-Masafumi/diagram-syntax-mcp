@@ -4,6 +4,7 @@ description: "An organizational chart showing hierarchy and reporting structure"
 category: "templates/basic"
 type: "orgchart"
 source_file: "templates/basic/orgchart_decoded.xml"
+tags: ["hierarchy", "fundamental", "simple", "template", "basic", "drawio", "orgchart"]
 ---
 
 # Organization Chart Template

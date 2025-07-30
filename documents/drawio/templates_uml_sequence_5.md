@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "templates/uml"
 type: "diagram"
 source_file: "templates/uml/sequence_5_decoded.xml"
+tags: ["software", "template", "modeling", "drawio", "uml"]
 ---
 
 # Sequence 5 Diagram

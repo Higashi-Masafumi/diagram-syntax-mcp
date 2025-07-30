@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "blog"
 type: "diagram"
 source_file: "blog/AWSRobot_decoded.xml"
+tags: ["blog", "cloud", "article", "drawio", "infrastructure"]
 ---
 
 # Awsrobot Diagram

@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "templates/network"
 type: "diagram"
 source_file: "templates/network/active_directory_2_decoded.xml"
+tags: ["network", "template", "drawio", "infrastructure", "topology"]
 ---
 
 # Active Directory 2 Diagram

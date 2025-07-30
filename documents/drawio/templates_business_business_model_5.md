@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "templates/business"
 type: "diagram"
 source_file: "templates/business/business_model_5_decoded.xml"
+tags: ["process", "template", "business", "drawio", "workflow"]
 ---
 
 # Business Model 5 Diagram

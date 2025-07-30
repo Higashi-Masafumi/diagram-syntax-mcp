@@ -4,6 +4,7 @@ description: "A user interface wireframe showing layout and structure"
 category: "templates/infographic"
 type: "wireframe"
 source_file: "templates/infographic/infographic_8_decoded.xml"
+tags: ["infographic", "template", "visualization", "presentation", "visual", "drawio"]
 ---
 
 # Infographic 8 Wireframe

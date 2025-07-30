@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "templates/world"
 type: "diagram"
 source_file: "templates/world/Soth_America_decoded.xml"
+tags: ["world", "geography", "map", "template", "drawio"]
 ---
 
 # Soth America Diagram

@@ -4,6 +4,7 @@ description: "An AWS architecture diagram showing cloud infrastructure"
 category: "templates/engineering"
 type: "aws"
 source_file: "templates/engineering/electrical_3_decoded.xml"
+tags: ["circuit", "engineering", "template", "technical", "electrical", "drawio"]
 ---
 
 # Electrical 3 Aws

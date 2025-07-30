@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "templates/basic"
 type: "diagram"
 source_file: "templates/basic/swimlanes_decoded.xml"
+tags: ["fundamental", "simple", "template", "basic", "drawio"]
 ---
 
 # Swimlanes Diagram

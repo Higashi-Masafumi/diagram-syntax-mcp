@@ -4,6 +4,7 @@ description: "A network topology diagram showing infrastructure components"
 category: "templates/engineering"
 type: "network"
 source_file: "templates/engineering/rack_1_decoded.xml"
+tags: ["engineering", "template", "technical", "electrical", "drawio"]
 ---
 
 # Rack 1 Network

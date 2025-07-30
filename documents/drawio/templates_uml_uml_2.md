@@ -4,6 +4,7 @@ description: "A sequence diagram illustrating interactions between objects over 
 category: "templates/uml"
 type: "sequence"
 source_file: "templates/uml/uml_2_decoded.xml"
+tags: ["software", "template", "modeling", "drawio", "uml"]
 ---
 
 # Uml 2 Sequence

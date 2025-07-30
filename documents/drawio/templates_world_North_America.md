@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "templates/world"
 type: "diagram"
 source_file: "templates/world/North_America_decoded.xml"
+tags: ["world", "geography", "map", "template", "drawio"]
 ---
 
 # North America Diagram

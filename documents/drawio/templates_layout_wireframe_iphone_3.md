@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "templates/layout"
 type: "diagram"
 source_file: "templates/layout/wireframe_iphone_3_decoded.xml"
+tags: ["ui", "template", "design", "layout", "wireframe", "drawio"]
 ---
 
 # Wireframe Iphone 3 Diagram

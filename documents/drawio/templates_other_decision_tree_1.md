@@ -4,6 +4,7 @@ description: "A flowchart diagram showing process flow and decision points"
 category: "templates/other"
 type: "flowchart"
 source_file: "templates/other/decision_tree_1_decoded.xml"
+tags: ["other", "miscellaneous", "template", "drawio", "utility"]
 ---
 
 # Decision Tree 1 Flowchart

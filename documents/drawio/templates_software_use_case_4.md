@@ -4,6 +4,7 @@ description: "A sequence diagram illustrating interactions between objects over 
 category: "templates/software"
 type: "sequence"
 source_file: "templates/software/use_case_4_decoded.xml"
+tags: ["development", "software", "template", "architecture", "drawio"]
 ---
 
 # Use Case 4 Sequence

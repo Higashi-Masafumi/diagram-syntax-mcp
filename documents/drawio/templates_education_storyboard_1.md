@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "templates/education"
 type: "diagram"
 source_file: "templates/education/storyboard_1_decoded.xml"
+tags: ["template", "academic", "education", "drawio", "learning"]
 ---
 
 # Storyboard 1 Diagram

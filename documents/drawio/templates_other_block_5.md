@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "templates/other"
 type: "diagram"
 source_file: "templates/other/block_5_decoded.xml"
+tags: ["other", "miscellaneous", "template", "drawio", "utility"]
 ---
 
 # Block 5 Diagram

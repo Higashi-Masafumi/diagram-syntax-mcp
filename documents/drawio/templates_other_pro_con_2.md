@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "templates/other"
 type: "diagram"
 source_file: "templates/other/pro_con_2_decoded.xml"
+tags: ["other", "miscellaneous", "template", "drawio", "utility"]
 ---
 
 # Pro Con 2 Diagram

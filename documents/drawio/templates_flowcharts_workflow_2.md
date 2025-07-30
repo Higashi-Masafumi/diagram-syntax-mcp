@@ -4,6 +4,7 @@ description: "An organizational chart showing hierarchy and reporting structure"
 category: "templates/flowcharts"
 type: "orgchart"
 source_file: "templates/flowcharts/workflow_2_decoded.xml"
+tags: ["process", "flowchart", "template", "flowcharts", "drawio", "workflow"]
 ---
 
 # Workflow 2 Orgchart

@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "templates/flowcharts"
 type: "diagram"
 source_file: "templates/flowcharts/workflow_3_decoded.xml"
+tags: ["process", "flowchart", "template", "flowcharts", "drawio", "workflow"]
 ---
 
 # Workflow 3 Diagram

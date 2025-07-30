@@ -4,6 +4,7 @@ description: "A floor plan diagram showing spatial layout"
 category: "templates/uml"
 type: "floorplan"
 source_file: "templates/uml/state_machine_1_decoded.xml"
+tags: ["software", "template", "modeling", "drawio", "uml"]
 ---
 
 # State Machine 1 Floorplan

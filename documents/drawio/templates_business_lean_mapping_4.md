@@ -4,6 +4,7 @@ description: "A flowchart diagram showing process flow and decision points"
 category: "templates/business"
 type: "flowchart"
 source_file: "templates/business/lean_mapping_4_decoded.xml"
+tags: ["process", "template", "business", "drawio", "workflow"]
 ---
 
 # Lean Mapping 4 Flowchart

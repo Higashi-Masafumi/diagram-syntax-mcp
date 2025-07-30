@@ -4,6 +4,7 @@ description: "A flowchart diagram showing process flow and decision points"
 category: "templates/cloud"
 type: "flowchart"
 source_file: "templates/cloud/ibm_iot_architecture_decoded.xml"
+tags: ["cloud", "template", "architecture", "drawio", "infrastructure"]
 ---
 
 # Ibm Iot Architecture Flowchart

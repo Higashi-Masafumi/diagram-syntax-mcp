@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "templates/engineering"
 type: "diagram"
 source_file: "templates/engineering/oscillator_logic_circuit_decoded.xml"
+tags: ["circuit", "ui", "engineering", "template", "design", "technical", "electrical", "wireframe", "drawio"]
 ---
 
 # Oscillator Logic Circuit Diagram

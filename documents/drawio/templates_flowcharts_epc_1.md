@@ -4,6 +4,7 @@ description: "A flowchart diagram showing process flow and decision points"
 category: "templates/flowcharts"
 type: "flowchart"
 source_file: "templates/flowcharts/epc_1_decoded.xml"
+tags: ["process", "flowchart", "template", "flowcharts", "drawio", "workflow"]
 ---
 
 # Epc 1 Flowchart

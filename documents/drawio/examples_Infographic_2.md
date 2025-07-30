@@ -4,6 +4,7 @@ description: "A flowchart diagram showing process flow and decision points"
 category: "examples"
 type: "flowchart"
 source_file: "examples/Infographic_2_decoded.xml"
+tags: ["infographic", "visualization", "sample", "drawio", "example"]
 ---
 
 # Infographic 2 Flowchart

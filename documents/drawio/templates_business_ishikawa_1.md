@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "templates/business"
 type: "diagram"
 source_file: "templates/business/ishikawa_1_decoded.xml"
+tags: ["process", "template", "business", "drawio", "workflow"]
 ---
 
 # Ishikawa 1 Diagram

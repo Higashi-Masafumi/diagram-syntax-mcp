@@ -4,6 +4,7 @@ description: "A UML class diagram showing class relationships and structure"
 category: "templates/flowcharts"
 type: "class"
 source_file: "templates/flowcharts/epc_2_decoded.xml"
+tags: ["process", "flowchart", "template", "flowcharts", "drawio", "workflow"]
 ---
 
 # Epc 2 Class

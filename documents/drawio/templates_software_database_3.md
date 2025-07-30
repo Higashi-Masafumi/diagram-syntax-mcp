@@ -4,6 +4,7 @@ description: "A database diagram showing entity relationships and structure"
 category: "templates/software"
 type: "database"
 source_file: "templates/software/database_3_decoded.xml"
+tags: ["development", "software", "database", "template", "architecture", "erd", "drawio", "data"]
 ---
 
 # Database 3 Database

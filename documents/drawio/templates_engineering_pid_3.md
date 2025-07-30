@@ -4,6 +4,7 @@ description: "An electrical diagram showing circuit components and connections"
 category: "templates/engineering"
 type: "electrical"
 source_file: "templates/engineering/pid_3_decoded.xml"
+tags: ["engineering", "template", "technical", "electrical", "drawio"]
 ---
 
 # Pid 3 Electrical

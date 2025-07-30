@@ -4,6 +4,7 @@ description: "A UML class diagram showing class relationships and structure"
 category: "templates/maps"
 type: "class"
 source_file: "templates/maps/iso_mind_map_decoded.xml"
+tags: ["mindmap", "conceptual", "map", "template", "brainstorm", "drawio", "maps"]
 ---
 
 # Iso Mind Map Class

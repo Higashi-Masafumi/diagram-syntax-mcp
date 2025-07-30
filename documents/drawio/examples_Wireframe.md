@@ -4,6 +4,7 @@ description: "A flowchart diagram showing process flow and decision points"
 category: "examples"
 type: "flowchart"
 source_file: "examples/Wireframe_decoded.xml"
+tags: ["ui", "design", "wireframe", "sample", "drawio", "example"]
 ---
 
 # UI Wireframe Template

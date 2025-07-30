@@ -4,6 +4,7 @@ description: "A sequence diagram illustrating interactions between objects over 
 category: "examples"
 type: "sequence"
 source_file: "examples/BPMN_decoded.xml"
+tags: ["bpmn", "business_process", "sample", "drawio", "example"]
 ---
 
 # Business Process Model Notation

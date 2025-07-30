@@ -4,6 +4,7 @@ description: "A network topology diagram showing infrastructure components"
 category: "templates/cloud"
 type: "network"
 source_file: "templates/cloud/aws_legacy_6_decoded.xml"
+tags: ["cloud", "template", "architecture", "drawio", "infrastructure"]
 ---
 
 # Aws Legacy 6 Network

@@ -4,6 +4,7 @@ description: "A flowchart diagram showing process flow and decision points"
 category: "templates/basic"
 type: "flowchart"
 source_file: "templates/basic/cross_decoded.xml"
+tags: ["fundamental", "simple", "template", "basic", "drawio"]
 ---
 
 # Cross Flowchart

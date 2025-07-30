@@ -4,6 +4,7 @@ description: "A sequence diagram illustrating interactions between objects over 
 category: "templates/business"
 type: "sequence"
 source_file: "templates/business/bpmn_1_decoded.xml"
+tags: ["process", "bpmn", "template", "business", "business_process", "drawio", "workflow"]
 ---
 
 # Bpmn 1 Sequence

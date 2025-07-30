@@ -4,6 +4,7 @@ description: "A user interface wireframe showing layout and structure"
 category: "templates/other"
 type: "wireframe"
 source_file: "templates/other/block_2_decoded.xml"
+tags: ["other", "miscellaneous", "template", "drawio", "utility"]
 ---
 
 # Block 2 Wireframe

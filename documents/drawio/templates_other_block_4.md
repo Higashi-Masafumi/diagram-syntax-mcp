@@ -4,6 +4,7 @@ description: "A network topology diagram showing infrastructure components"
 category: "templates/other"
 type: "network"
 source_file: "templates/other/block_4_decoded.xml"
+tags: ["other", "miscellaneous", "template", "drawio", "utility"]
 ---
 
 # Block 4 Network

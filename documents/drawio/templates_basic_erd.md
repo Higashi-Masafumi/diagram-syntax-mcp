@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "templates/basic"
 type: "diagram"
 source_file: "templates/basic/erd_decoded.xml"
+tags: ["database", "fundamental", "simple", "template", "basic", "erd", "drawio", "data"]
 ---
 
 # Erd Diagram

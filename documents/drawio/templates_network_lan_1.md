@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "templates/network"
 type: "diagram"
 source_file: "templates/network/lan_1_decoded.xml"
+tags: ["network", "template", "drawio", "infrastructure", "topology"]
 ---
 
 # Lan 1 Diagram

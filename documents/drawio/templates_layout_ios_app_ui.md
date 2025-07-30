@@ -4,6 +4,7 @@ description: "A database diagram showing entity relationships and structure"
 category: "templates/layout"
 type: "database"
 source_file: "templates/layout/ios_app_ui_decoded.xml"
+tags: ["ui", "template", "design", "layout", "wireframe", "drawio"]
 ---
 
 # Ios App Ui Database

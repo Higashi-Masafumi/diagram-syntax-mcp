@@ -4,6 +4,7 @@ description: "A sequence diagram illustrating interactions between objects over 
 category: "templates/engineering"
 type: "sequence"
 source_file: "templates/engineering/process_flow_diagram_decoded.xml"
+tags: ["logic", "engineering", "template", "technical", "venn", "electrical", "drawio"]
 ---
 
 # Process Flow Diagram Sequence

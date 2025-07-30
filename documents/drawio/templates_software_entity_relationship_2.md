@@ -4,6 +4,7 @@ description: "A UML class diagram showing class relationships and structure"
 category: "templates/software"
 type: "class"
 source_file: "templates/software/entity_relationship_2_decoded.xml"
+tags: ["development", "software", "database", "template", "architecture", "erd", "drawio", "data"]
 ---
 
 # Entity Relationship 2 Class

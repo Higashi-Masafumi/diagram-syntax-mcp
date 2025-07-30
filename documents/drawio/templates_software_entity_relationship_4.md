@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "templates/software"
 type: "diagram"
 source_file: "templates/software/entity_relationship_4_decoded.xml"
+tags: ["development", "software", "database", "template", "architecture", "erd", "drawio", "data"]
 ---
 
 # Entity Relationship 4 Diagram

@@ -4,6 +4,7 @@ description: "A flowchart diagram showing process flow and decision points"
 category: "templates/uml"
 type: "flowchart"
 source_file: "templates/uml/activity_diagram_3_decoded.xml"
+tags: ["logic", "software", "template", "modeling", "venn", "drawio", "uml"]
 ---
 
 # Activity Diagram 3 Flowchart

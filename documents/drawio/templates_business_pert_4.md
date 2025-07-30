@@ -4,6 +4,7 @@ description: "A database diagram showing entity relationships and structure"
 category: "templates/business"
 type: "database"
 source_file: "templates/business/pert_4_decoded.xml"
+tags: ["process", "template", "business", "drawio", "workflow"]
 ---
 
 # Pert 4 Database

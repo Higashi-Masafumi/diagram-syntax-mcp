@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "templates/engineering"
 type: "diagram"
 source_file: "templates/engineering/pid_1_decoded.xml"
+tags: ["engineering", "template", "technical", "electrical", "drawio"]
 ---
 
 # Pid 1 Diagram

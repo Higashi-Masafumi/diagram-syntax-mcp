@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "templates/flowcharts"
 type: "diagram"
 source_file: "templates/flowcharts/cross_functional_flowchart_3_decoded.xml"
+tags: ["process", "flowchart", "template", "flowcharts", "drawio", "workflow"]
 ---
 
 # Cross Functional Flowchart 3 Diagram

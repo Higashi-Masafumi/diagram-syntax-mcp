@@ -4,6 +4,7 @@ description: "A flowchart diagram showing process flow and decision points"
 category: "templates/flowcharts"
 type: "flowchart"
 source_file: "templates/flowcharts/cross_functional_flowchart_4_decoded.xml"
+tags: ["process", "flowchart", "template", "flowcharts", "drawio", "workflow"]
 ---
 
 # Cross Functional Flowchart 4 Flowchart

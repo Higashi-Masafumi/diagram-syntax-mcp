@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "templates/network"
 type: "diagram"
 source_file: "templates/network/internet_1_decoded.xml"
+tags: ["network", "template", "drawio", "infrastructure", "topology"]
 ---
 
 # Internet 1 Diagram

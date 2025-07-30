@@ -4,6 +4,7 @@ description: "A user interface wireframe showing layout and structure"
 category: "templates/software"
 type: "wireframe"
 source_file: "templates/software/use_case_1_decoded.xml"
+tags: ["development", "software", "template", "architecture", "drawio"]
 ---
 
 # Use Case 1 Wireframe

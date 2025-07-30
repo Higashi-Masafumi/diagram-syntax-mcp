@@ -4,6 +4,7 @@ description: "A database diagram showing entity relationships and structure"
 category: "templates/software"
 type: "database"
 source_file: "templates/software/data_flow_4_decoded.xml"
+tags: ["development", "software", "template", "architecture", "drawio"]
 ---
 
 # Data Flow 4 Database

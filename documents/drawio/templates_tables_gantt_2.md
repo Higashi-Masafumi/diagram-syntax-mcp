@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "templates/tables"
 type: "diagram"
 source_file: "templates/tables/gantt_2_decoded.xml"
+tags: ["timeline", "table", "structure", "template", "gantt", "project", "tables", "drawio", "data"]
 ---
 
 # Gantt 2 Diagram

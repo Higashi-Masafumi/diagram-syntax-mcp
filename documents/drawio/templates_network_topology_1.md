@@ -4,6 +4,7 @@ description: "A network topology diagram showing infrastructure components"
 category: "templates/network"
 type: "network"
 source_file: "templates/network/topology_1_decoded.xml"
+tags: ["network", "template", "drawio", "infrastructure", "topology"]
 ---
 
 # Topology 1 Network

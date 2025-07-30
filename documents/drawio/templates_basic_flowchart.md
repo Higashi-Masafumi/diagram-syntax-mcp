@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "templates/basic"
 type: "diagram"
 source_file: "templates/basic/flowchart_decoded.xml"
+tags: ["fundamental", "process", "flowchart", "simple", "template", "basic", "drawio"]
 ---
 
 # Basic Flowchart Template

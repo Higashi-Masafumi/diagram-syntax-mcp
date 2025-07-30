@@ -4,6 +4,7 @@ description: "A flowchart diagram showing process flow and decision points"
 category: "templates/business"
 type: "flowchart"
 source_file: "templates/business/swot_5_decoded.xml"
+tags: ["analysis", "process", "template", "business", "swot", "strategy", "drawio", "workflow"]
 ---
 
 # Swot 5 Flowchart

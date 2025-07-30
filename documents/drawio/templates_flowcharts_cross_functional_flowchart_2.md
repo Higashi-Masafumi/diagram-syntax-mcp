@@ -4,6 +4,7 @@ description: "A user interface wireframe showing layout and structure"
 category: "templates/flowcharts"
 type: "wireframe"
 source_file: "templates/flowcharts/cross_functional_flowchart_2_decoded.xml"
+tags: ["process", "flowchart", "template", "flowcharts", "drawio", "workflow"]
 ---
 
 # Cross Functional Flowchart 2 Wireframe

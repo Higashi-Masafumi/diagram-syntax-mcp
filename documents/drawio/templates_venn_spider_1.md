@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "templates/venn"
 type: "diagram"
 source_file: "templates/venn/spider_1_decoded.xml"
+tags: ["logic", "diagram", "template", "venn", "drawio"]
 ---
 
 # Spider 1 Diagram

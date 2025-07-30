@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "examples"
 type: "diagram"
 source_file: "examples/Mock-up_mobile_decoded.xml"
+tags: ["drawio", "example", "sample"]
 ---
 
 # Mock Up Mobile Diagram

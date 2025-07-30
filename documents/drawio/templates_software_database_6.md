@@ -4,6 +4,7 @@ description: "A flowchart diagram showing process flow and decision points"
 category: "templates/software"
 type: "flowchart"
 source_file: "templates/software/database_6_decoded.xml"
+tags: ["development", "software", "database", "template", "architecture", "erd", "drawio", "data"]
 ---
 
 # Database 6 Flowchart

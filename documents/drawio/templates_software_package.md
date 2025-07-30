@@ -4,6 +4,7 @@ description: "A network topology diagram showing infrastructure components"
 category: "templates/software"
 type: "network"
 source_file: "templates/software/package_decoded.xml"
+tags: ["development", "software", "template", "architecture", "drawio"]
 ---
 
 # Package Network

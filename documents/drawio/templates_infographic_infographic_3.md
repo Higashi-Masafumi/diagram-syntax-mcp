@@ -4,6 +4,7 @@ description: "A flowchart diagram showing process flow and decision points"
 category: "templates/infographic"
 type: "flowchart"
 source_file: "templates/infographic/infographic_3_decoded.xml"
+tags: ["infographic", "template", "visualization", "presentation", "visual", "drawio"]
 ---
 
 # Infographic 3 Flowchart

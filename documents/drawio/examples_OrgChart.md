@@ -4,6 +4,7 @@ description: "A network topology diagram showing infrastructure components"
 category: "examples"
 type: "network"
 source_file: "examples/OrgChart_decoded.xml"
+tags: ["hierarchy", "sample", "drawio", "orgchart", "example"]
 ---
 
 # Organization Chart Template

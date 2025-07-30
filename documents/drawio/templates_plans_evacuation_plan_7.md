@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "templates/plans"
 type: "diagram"
 source_file: "templates/plans/evacuation_plan_7_decoded.xml"
+tags: ["template", "layout", "architecture", "plans", "drawio", "plan"]
 ---
 
 # Evacuation Plan 7 Diagram

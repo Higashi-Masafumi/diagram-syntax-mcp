@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "templates/business"
 type: "diagram"
 source_file: "templates/business/pert_2_decoded.xml"
+tags: ["process", "template", "business", "drawio", "workflow"]
 ---
 
 # Pert 2 Diagram

@@ -4,6 +4,7 @@ description: "A sequence diagram illustrating interactions between objects over 
 category: "templates/software"
 type: "sequence"
 source_file: "templates/software/class_1_decoded.xml"
+tags: ["development", "software", "template", "modeling", "architecture", "drawio", "uml"]
 ---
 
 # Class 1 Sequence

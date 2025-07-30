@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "examples"
 type: "diagram"
 source_file: "examples/Floorplan_decoded.xml"
+tags: ["drawio", "example", "sample"]
 ---
 
 # Floorplan Diagram

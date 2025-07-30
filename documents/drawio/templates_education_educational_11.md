@@ -4,6 +4,7 @@ description: "A flowchart diagram showing process flow and decision points"
 category: "templates/education"
 type: "flowchart"
 source_file: "templates/education/educational_11_decoded.xml"
+tags: ["template", "academic", "education", "drawio", "learning"]
 ---
 
 # Educational 11 Flowchart

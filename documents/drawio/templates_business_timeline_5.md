@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "templates/business"
 type: "diagram"
 source_file: "templates/business/timeline_5_decoded.xml"
+tags: ["timeline", "process", "template", "gantt", "project", "business", "drawio", "workflow"]
 ---
 
 # Timeline 5 Diagram

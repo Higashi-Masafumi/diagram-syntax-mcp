@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "templates/charts"
 type: "diagram"
 source_file: "templates/charts/coc_3_decoded.xml"
+tags: ["template", "chart", "visualization", "charts", "drawio", "data"]
 ---
 
 # Coc 3 Diagram

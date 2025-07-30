@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "templates/layout"
 type: "diagram"
 source_file: "templates/layout/ios_location_decoded.xml"
+tags: ["ui", "template", "design", "layout", "wireframe", "drawio"]
 ---
 
 # Ios Location Diagram

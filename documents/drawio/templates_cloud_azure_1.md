@@ -4,6 +4,7 @@ description: "A network topology diagram showing infrastructure components"
 category: "templates/cloud"
 type: "network"
 source_file: "templates/cloud/azure_1_decoded.xml"
+tags: ["cloud", "template", "architecture", "drawio", "infrastructure"]
 ---
 
 # Azure 1 Network

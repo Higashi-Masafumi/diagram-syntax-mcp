@@ -4,6 +4,7 @@ description: "A flowchart diagram showing process flow and decision points"
 category: "templates/uml"
 type: "flowchart"
 source_file: "templates/uml/uml_1_decoded.xml"
+tags: ["software", "template", "modeling", "drawio", "uml"]
 ---
 
 # Uml 1 Flowchart

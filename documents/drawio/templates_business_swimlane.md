@@ -4,6 +4,7 @@ description: "A flowchart diagram showing process flow and decision points"
 category: "templates/business"
 type: "flowchart"
 source_file: "templates/business/swimlane_decoded.xml"
+tags: ["process", "template", "business", "drawio", "workflow"]
 ---
 
 # Swimlane Flowchart

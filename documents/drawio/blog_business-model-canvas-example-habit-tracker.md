@@ -4,6 +4,7 @@ description: "A flowchart diagram showing process flow and decision points"
 category: "blog"
 type: "flowchart"
 source_file: "blog/business-model-canvas-example-habit-tracker_decoded.xml"
+tags: ["drawio", "article", "blog"]
 ---
 
 # Business Model Canvas Example Habit Tracker Flowchart

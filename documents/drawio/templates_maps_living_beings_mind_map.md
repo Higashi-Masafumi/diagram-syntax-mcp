@@ -4,6 +4,7 @@ description: "A flowchart diagram showing process flow and decision points"
 category: "templates/maps"
 type: "flowchart"
 source_file: "templates/maps/living_beings_mind_map_decoded.xml"
+tags: ["mindmap", "conceptual", "map", "template", "brainstorm", "drawio", "maps"]
 ---
 
 # Living Beings Mind Map Flowchart

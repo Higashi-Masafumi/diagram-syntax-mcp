@@ -4,6 +4,7 @@ description: "An AWS architecture diagram showing cloud infrastructure"
 category: "templates/cloud"
 type: "aws"
 source_file: "templates/cloud/aws_legacy_4_decoded.xml"
+tags: ["cloud", "template", "architecture", "drawio", "infrastructure"]
 ---
 
 # Aws Legacy 4 Aws

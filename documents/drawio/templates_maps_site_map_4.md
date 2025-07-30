@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "templates/maps"
 type: "diagram"
 source_file: "templates/maps/site_map_4_decoded.xml"
+tags: ["mindmap", "conceptual", "map", "template", "drawio", "maps"]
 ---
 
 # Site Map 4 Diagram

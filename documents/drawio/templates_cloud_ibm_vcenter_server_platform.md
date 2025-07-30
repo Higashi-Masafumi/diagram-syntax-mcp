@@ -4,6 +4,7 @@ description: "A flowchart diagram showing process flow and decision points"
 category: "templates/cloud"
 type: "flowchart"
 source_file: "templates/cloud/ibm_vcenter_server_platform_decoded.xml"
+tags: ["cloud", "template", "architecture", "drawio", "infrastructure"]
 ---
 
 # Ibm Vcenter Server Platform Flowchart

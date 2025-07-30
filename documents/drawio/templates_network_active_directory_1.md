@@ -4,6 +4,7 @@ description: "A database diagram showing entity relationships and structure"
 category: "templates/network"
 type: "database"
 source_file: "templates/network/active_directory_1_decoded.xml"
+tags: ["network", "template", "drawio", "infrastructure", "topology"]
 ---
 
 # Active Directory 1 Database

@@ -4,6 +4,7 @@ description: "A flowchart diagram showing process flow and decision points"
 category: "templates/business"
 type: "flowchart"
 source_file: "templates/business/sipoc_diagram_decoded.xml"
+tags: ["logic", "process", "template", "venn", "business", "drawio", "workflow"]
 ---
 
 # Sipoc Diagram Flowchart

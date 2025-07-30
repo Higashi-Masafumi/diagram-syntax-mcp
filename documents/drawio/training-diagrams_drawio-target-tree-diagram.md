@@ -4,6 +4,7 @@ description: "A sequence diagram illustrating interactions between objects over 
 category: "training"
 type: "sequence"
 source_file: "training-diagrams/drawio-target-tree-diagram_decoded.xml"
+tags: ["logic", "training", "tutorial", "venn", "drawio"]
 ---
 
 # Drawio Target Tree Diagram Sequence

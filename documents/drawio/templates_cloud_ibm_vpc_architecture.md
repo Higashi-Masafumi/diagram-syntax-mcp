@@ -4,6 +4,7 @@ description: "A UML class diagram showing class relationships and structure"
 category: "templates/cloud"
 type: "class"
 source_file: "templates/cloud/ibm_vpc_architecture_decoded.xml"
+tags: ["cloud", "template", "architecture", "drawio", "infrastructure"]
 ---
 
 # Ibm Vpc Architecture Class

@@ -4,6 +4,7 @@ description: "A flowchart diagram showing process flow and decision points"
 category: "training"
 type: "flowchart"
 source_file: "training-diagrams/draw.io links and tooltips example_decoded.xml"
+tags: ["drawio", "training", "tutorial"]
 ---
 
 # Draw.Io Links And Tooltips Example Flowchart

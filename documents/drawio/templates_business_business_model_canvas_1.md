@@ -4,6 +4,7 @@ description: "A flowchart diagram showing process flow and decision points"
 category: "templates/business"
 type: "flowchart"
 source_file: "templates/business/business_model_canvas_1_decoded.xml"
+tags: ["process", "template", "business", "drawio", "workflow"]
 ---
 
 # Business Model Canvas 1 Flowchart

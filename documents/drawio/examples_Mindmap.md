@@ -4,6 +4,7 @@ description: "A flowchart diagram showing process flow and decision points"
 category: "examples"
 type: "flowchart"
 source_file: "examples/Mindmap_decoded.xml"
+tags: ["mindmap", "brainstorm", "sample", "drawio", "example"]
 ---
 
 # Mind Map Template

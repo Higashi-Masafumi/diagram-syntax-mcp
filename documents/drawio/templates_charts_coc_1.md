@@ -4,6 +4,7 @@ description: "A flowchart diagram showing process flow and decision points"
 category: "templates/charts"
 type: "flowchart"
 source_file: "templates/charts/coc_1_decoded.xml"
+tags: ["template", "chart", "visualization", "charts", "drawio", "data"]
 ---
 
 # Coc 1 Flowchart

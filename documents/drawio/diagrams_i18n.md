@@ -4,6 +4,7 @@ description: "A flowchart diagram showing process flow and decision points"
 category: "diagrams"
 type: "flowchart"
 source_file: "diagrams/i18n_decoded.xml"
+tags: ["diagram", "drawio", "documentation"]
 ---
 
 # I18N Flowchart

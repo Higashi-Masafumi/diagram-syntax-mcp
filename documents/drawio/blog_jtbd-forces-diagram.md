@@ -4,6 +4,7 @@ description: "A network topology diagram showing infrastructure components"
 category: "blog"
 type: "network"
 source_file: "blog/jtbd-forces-diagram_decoded.xml"
+tags: ["logic", "blog", "article", "venn", "drawio"]
 ---
 
 # Jtbd Forces Diagram Network

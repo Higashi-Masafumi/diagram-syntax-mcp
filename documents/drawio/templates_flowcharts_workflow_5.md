@@ -4,6 +4,7 @@ description: "A database diagram showing entity relationships and structure"
 category: "templates/flowcharts"
 type: "database"
 source_file: "templates/flowcharts/workflow_5_decoded.xml"
+tags: ["process", "flowchart", "template", "flowcharts", "drawio", "workflow"]
 ---
 
 # Workflow 5 Database

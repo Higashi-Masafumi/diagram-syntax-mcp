@@ -4,6 +4,7 @@ description: "A flowchart diagram showing process flow and decision points"
 category: "examples"
 type: "flowchart"
 source_file: "examples/WorkflowFlowchart_decoded.xml"
+tags: ["process", "flowchart", "sample", "drawio", "example"]
 ---
 
 # Workflowflowchart Flowchart

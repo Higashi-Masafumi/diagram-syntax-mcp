@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "templates/plans"
 type: "diagram"
 source_file: "templates/plans/seating_plan_1_decoded.xml"
+tags: ["template", "layout", "architecture", "plans", "drawio", "plan"]
 ---
 
 # Seating Plan 1 Diagram

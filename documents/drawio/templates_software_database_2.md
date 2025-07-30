@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "templates/software"
 type: "diagram"
 source_file: "templates/software/database_2_decoded.xml"
+tags: ["development", "software", "database", "template", "architecture", "erd", "drawio", "data"]
 ---
 
 # Database 2 Diagram

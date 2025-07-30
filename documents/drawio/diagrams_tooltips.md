@@ -4,6 +4,7 @@ description: "A flowchart diagram showing process flow and decision points"
 category: "diagrams"
 type: "flowchart"
 source_file: "diagrams/tooltips_decoded.xml"
+tags: ["diagram", "drawio", "documentation"]
 ---
 
 # Tooltips Flowchart

@@ -4,6 +4,7 @@ description: "A sequence diagram illustrating interactions between objects over 
 category: "templates/engineering"
 type: "sequence"
 source_file: "templates/engineering/pid_4_decoded.xml"
+tags: ["engineering", "template", "technical", "electrical", "drawio"]
 ---
 
 # Pid 4 Sequence

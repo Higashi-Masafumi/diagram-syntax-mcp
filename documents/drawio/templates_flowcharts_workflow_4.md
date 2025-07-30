@@ -4,6 +4,7 @@ description: "A flowchart diagram showing process flow and decision points"
 category: "templates/flowcharts"
 type: "flowchart"
 source_file: "templates/flowcharts/workflow_4_decoded.xml"
+tags: ["process", "flowchart", "template", "flowcharts", "drawio", "workflow"]
 ---
 
 # Workflow 4 Flowchart

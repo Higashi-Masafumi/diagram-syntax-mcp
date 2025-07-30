@@ -4,6 +4,7 @@ description: "A network topology diagram showing infrastructure components"
 category: "templates/network"
 type: "network"
 source_file: "templates/network/wireless_home_network_decoded.xml"
+tags: ["network", "template", "drawio", "infrastructure", "topology"]
 ---
 
 # Wireless Home Network Network

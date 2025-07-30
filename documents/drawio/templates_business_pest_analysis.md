@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "templates/business"
 type: "diagram"
 source_file: "templates/business/pest_analysis_decoded.xml"
+tags: ["analysis", "process", "template", "business", "swot", "strategy", "drawio", "workflow"]
 ---
 
 # Pest Analysis Diagram

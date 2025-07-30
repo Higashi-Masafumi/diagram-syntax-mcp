@@ -4,6 +4,7 @@ description: "A timeline or schedule diagram showing temporal relationships"
 category: "templates/education"
 type: "timeline"
 source_file: "templates/education/educational_9_decoded.xml"
+tags: ["template", "academic", "education", "drawio", "learning"]
 ---
 
 # Educational 9 Timeline

@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "training"
 type: "diagram"
 source_file: "training-diagrams/draw.io coffee example_decoded.xml"
+tags: ["drawio", "training", "tutorial"]
 ---
 
 # Draw.Io Coffee Example Diagram

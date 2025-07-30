@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "examples"
 type: "diagram"
 source_file: "examples/VennDiagram_decoded.xml"
+tags: ["logic", "venn", "sample", "drawio", "example"]
 ---
 
 # Venndiagram Diagram

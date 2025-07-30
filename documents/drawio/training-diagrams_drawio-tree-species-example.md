@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "training"
 type: "diagram"
 source_file: "training-diagrams/drawio-tree-species-example_decoded.xml"
+tags: ["drawio", "training", "tutorial"]
 ---
 
 # Drawio Tree Species Example Diagram

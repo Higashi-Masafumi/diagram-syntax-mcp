@@ -4,6 +4,7 @@ description: "A database diagram showing entity relationships and structure"
 category: "templates/education"
 type: "database"
 source_file: "templates/education/educational_5_decoded.xml"
+tags: ["template", "academic", "education", "drawio", "learning"]
 ---
 
 # Educational 5 Database

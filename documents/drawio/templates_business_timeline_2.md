@@ -4,6 +4,7 @@ description: "A flowchart diagram showing process flow and decision points"
 category: "templates/business"
 type: "flowchart"
 source_file: "templates/business/timeline_2_decoded.xml"
+tags: ["timeline", "process", "template", "gantt", "project", "business", "drawio", "workflow"]
 ---
 
 # Timeline 2 Flowchart

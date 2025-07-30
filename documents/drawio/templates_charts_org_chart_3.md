@@ -4,6 +4,7 @@ description: "A flowchart diagram showing process flow and decision points"
 category: "templates/charts"
 type: "flowchart"
 source_file: "templates/charts/org_chart_3_decoded.xml"
+tags: ["hierarchy", "template", "chart", "visualization", "orgchart", "charts", "drawio", "data"]
 ---
 
 # Org Chart 3 Flowchart

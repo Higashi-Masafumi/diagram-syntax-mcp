@@ -4,6 +4,7 @@ description: "A database diagram showing entity relationships and structure"
 category: "templates/charts"
 type: "database"
 source_file: "templates/charts/org_chart_1_decoded.xml"
+tags: ["hierarchy", "template", "chart", "visualization", "orgchart", "charts", "drawio", "data"]
 ---
 
 # Org Chart 1 Database

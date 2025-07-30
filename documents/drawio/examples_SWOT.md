@@ -4,6 +4,7 @@ description: "A SWOT analysis template for strategic planning"
 category: "examples"
 type: "swot"
 source_file: "examples/SWOT_decoded.xml"
+tags: ["analysis", "swot", "strategy", "sample", "drawio", "example"]
 ---
 
 # SWOT Analysis Template

@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "templates/engineering"
 type: "diagram"
 source_file: "templates/engineering/logic_circuit_2_decoded.xml"
+tags: ["circuit", "ui", "engineering", "template", "design", "technical", "electrical", "wireframe", "drawio"]
 ---
 
 # Logic Circuit 2 Diagram

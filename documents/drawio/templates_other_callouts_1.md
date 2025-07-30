@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "templates/other"
 type: "diagram"
 source_file: "templates/other/callouts_1_decoded.xml"
+tags: ["other", "miscellaneous", "template", "drawio", "utility"]
 ---
 
 # Callouts 1 Diagram

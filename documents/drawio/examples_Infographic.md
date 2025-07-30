@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "examples"
 type: "diagram"
 source_file: "examples/Infographic_decoded.xml"
+tags: ["infographic", "visualization", "sample", "drawio", "example"]
 ---
 
 # Infographic Diagram

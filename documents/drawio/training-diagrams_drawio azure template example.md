@@ -4,6 +4,7 @@ description: "A network topology diagram showing infrastructure components"
 category: "training"
 type: "network"
 source_file: "training-diagrams/drawio azure template example_decoded.xml"
+tags: ["cloud", "training", "tutorial", "drawio", "infrastructure"]
 ---
 
 # Drawio Azure Template Example Network

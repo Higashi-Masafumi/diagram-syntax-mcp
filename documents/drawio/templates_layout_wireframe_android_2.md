@@ -4,6 +4,7 @@ description: "A sequence diagram illustrating interactions between objects over 
 category: "templates/layout"
 type: "sequence"
 source_file: "templates/layout/wireframe_android_2_decoded.xml"
+tags: ["ui", "template", "design", "layout", "wireframe", "drawio"]
 ---
 
 # Wireframe Android 2 Sequence

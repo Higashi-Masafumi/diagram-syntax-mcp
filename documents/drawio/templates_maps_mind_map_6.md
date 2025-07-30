@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "templates/maps"
 type: "diagram"
 source_file: "templates/maps/mind_map_6_decoded.xml"
+tags: ["mindmap", "conceptual", "map", "template", "brainstorm", "drawio", "maps"]
 ---
 
 # Mind Map 6 Diagram

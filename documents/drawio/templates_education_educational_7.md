@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "templates/education"
 type: "diagram"
 source_file: "templates/education/educational_7_decoded.xml"
+tags: ["template", "academic", "education", "drawio", "learning"]
 ---
 
 # Educational 7 Diagram

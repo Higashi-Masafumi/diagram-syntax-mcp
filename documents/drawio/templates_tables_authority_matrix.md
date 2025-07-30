@@ -4,6 +4,7 @@ description: "A database diagram showing entity relationships and structure"
 category: "templates/tables"
 type: "database"
 source_file: "templates/tables/authority_matrix_decoded.xml"
+tags: ["table", "structure", "template", "tables", "drawio", "data"]
 ---
 
 # Authority Matrix Database

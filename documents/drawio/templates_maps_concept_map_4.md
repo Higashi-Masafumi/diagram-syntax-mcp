@@ -4,6 +4,7 @@ description: "A flowchart diagram showing process flow and decision points"
 category: "templates/maps"
 type: "flowchart"
 source_file: "templates/maps/concept_map_4_decoded.xml"
+tags: ["mindmap", "conceptual", "map", "template", "drawio", "maps"]
 ---
 
 # Concept Map 4 Flowchart

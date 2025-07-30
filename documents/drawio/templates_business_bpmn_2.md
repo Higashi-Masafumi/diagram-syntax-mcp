@@ -4,6 +4,7 @@ description: "A flowchart diagram showing process flow and decision points"
 category: "templates/business"
 type: "flowchart"
 source_file: "templates/business/bpmn_2_decoded.xml"
+tags: ["process", "bpmn", "template", "business", "business_process", "drawio", "workflow"]
 ---
 
 # Bpmn 2 Flowchart

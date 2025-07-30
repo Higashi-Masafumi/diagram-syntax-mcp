@@ -4,6 +4,7 @@ description: "A flowchart diagram showing process flow and decision points"
 category: "blog"
 type: "flowchart"
 source_file: "blog/drawio-why-diagram_decoded.xml"
+tags: ["logic", "blog", "article", "venn", "drawio"]
 ---
 
 # Drawio Why Diagram Flowchart

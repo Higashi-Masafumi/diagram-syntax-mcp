@@ -4,6 +4,7 @@ description: "An organizational chart showing hierarchy and reporting structure"
 category: "templates/business"
 type: "orgchart"
 source_file: "templates/business/business_form_3_decoded.xml"
+tags: ["process", "template", "business", "drawio", "workflow"]
 ---
 
 # Business Form 3 Orgchart

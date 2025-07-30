@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "examples"
 type: "diagram"
 source_file: "examples/Sequence_decoded.xml"
+tags: ["modeling", "sample", "drawio", "uml", "example"]
 ---
 
 # Sequence Diagram Example

@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "templates/software"
 type: "diagram"
 source_file: "templates/software/data_flow_3_decoded.xml"
+tags: ["development", "software", "template", "architecture", "drawio"]
 ---
 
 # Data Flow 3 Diagram

@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "templates/plans"
 type: "diagram"
 source_file: "templates/plans/interior_design_3_decoded.xml"
+tags: ["template", "layout", "architecture", "plans", "drawio", "plan"]
 ---
 
 # Interior Design 3 Diagram

@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "templates/uml"
 type: "diagram"
 source_file: "templates/uml/state_machine_3_decoded.xml"
+tags: ["software", "template", "modeling", "drawio", "uml"]
 ---
 
 # State Machine 3 Diagram

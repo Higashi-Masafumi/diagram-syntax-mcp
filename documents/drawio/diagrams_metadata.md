@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "diagrams"
 type: "diagram"
 source_file: "diagrams/metadata_decoded.xml"
+tags: ["diagram", "drawio", "documentation"]
 ---
 
 # Metadata Diagram

@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "templates/venn"
 type: "diagram"
 source_file: "templates/venn/venn_8_decoded.xml"
+tags: ["logic", "diagram", "template", "venn", "drawio"]
 ---
 
 # Venn 8 Diagram

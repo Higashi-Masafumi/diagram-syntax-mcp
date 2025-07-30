@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "templates/software"
 type: "diagram"
 source_file: "templates/software/ldap_2_decoded.xml"
+tags: ["development", "software", "template", "architecture", "drawio"]
 ---
 
 # Ldap 2 Diagram

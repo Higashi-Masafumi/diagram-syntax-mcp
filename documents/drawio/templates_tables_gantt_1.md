@@ -4,6 +4,7 @@ description: "A flowchart diagram showing process flow and decision points"
 category: "templates/tables"
 type: "flowchart"
 source_file: "templates/tables/gantt_1_decoded.xml"
+tags: ["timeline", "table", "structure", "template", "gantt", "project", "tables", "drawio", "data"]
 ---
 
 # Gantt 1 Flowchart

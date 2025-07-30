@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "templates/charts"
 type: "diagram"
 source_file: "templates/charts/org_chart_5_decoded.xml"
+tags: ["hierarchy", "template", "chart", "visualization", "orgchart", "charts", "drawio", "data"]
 ---
 
 # Org Chart 5 Diagram

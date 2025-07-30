@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "templates/cloud"
 type: "diagram"
 source_file: "templates/cloud/aws_3d_1_decoded.xml"
+tags: ["cloud", "template", "architecture", "drawio", "infrastructure"]
 ---
 
 # Aws 3D 1 Diagram

@@ -4,6 +4,7 @@ description: "An organizational chart showing hierarchy and reporting structure"
 category: "examples"
 type: "orgchart"
 source_file: "examples/BPMN_2_decoded.xml"
+tags: ["bpmn", "business_process", "sample", "drawio", "example"]
 ---
 
 # Bpmn 2 Orgchart

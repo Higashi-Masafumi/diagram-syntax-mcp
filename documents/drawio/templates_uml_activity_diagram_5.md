@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "templates/uml"
 type: "diagram"
 source_file: "templates/uml/activity_diagram_5_decoded.xml"
+tags: ["logic", "software", "template", "modeling", "venn", "drawio", "uml"]
 ---
 
 # Activity Diagram 5 Diagram

@@ -4,6 +4,7 @@ description: "An organizational chart showing hierarchy and reporting structure"
 category: "templates/maps"
 type: "orgchart"
 source_file: "templates/maps/mind_map_5_decoded.xml"
+tags: ["mindmap", "conceptual", "map", "template", "brainstorm", "drawio", "maps"]
 ---
 
 # Mind Map 5 Orgchart

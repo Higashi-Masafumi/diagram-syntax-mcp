@@ -4,6 +4,7 @@ description: "A user interface wireframe showing layout and structure"
 category: "templates/engineering"
 type: "wireframe"
 source_file: "templates/engineering/star_delta_decoded.xml"
+tags: ["engineering", "template", "technical", "electrical", "drawio"]
 ---
 
 # Star Delta Wireframe

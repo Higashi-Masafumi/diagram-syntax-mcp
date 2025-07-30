@@ -4,6 +4,7 @@ description: "A flowchart diagram showing process flow and decision points"
 category: "templates/software"
 type: "flowchart"
 source_file: "templates/software/ldap_1_decoded.xml"
+tags: ["development", "software", "template", "architecture", "drawio"]
 ---
 
 # Ldap 1 Flowchart

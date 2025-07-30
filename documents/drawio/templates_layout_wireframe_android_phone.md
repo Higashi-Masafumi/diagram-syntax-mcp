@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "templates/layout"
 type: "diagram"
 source_file: "templates/layout/wireframe_android_phone_decoded.xml"
+tags: ["ui", "template", "design", "layout", "wireframe", "drawio"]
 ---
 
 # Wireframe Android Phone Diagram

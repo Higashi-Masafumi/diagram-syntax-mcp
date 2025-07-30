@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "templates/cloud"
 type: "diagram"
 source_file: "templates/cloud/aws_legacy_5_decoded.xml"
+tags: ["cloud", "template", "architecture", "drawio", "infrastructure"]
 ---
 
 # Aws Legacy 5 Diagram

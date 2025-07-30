@@ -4,6 +4,7 @@ description: "A flowchart diagram showing process flow and decision points"
 category: "templates/cloud"
 type: "flowchart"
 source_file: "templates/cloud/ibm_private_cloud_decoded.xml"
+tags: ["cloud", "template", "architecture", "drawio", "infrastructure"]
 ---
 
 # Ibm Private Cloud Flowchart

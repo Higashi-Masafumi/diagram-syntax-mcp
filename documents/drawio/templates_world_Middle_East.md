@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "templates/world"
 type: "diagram"
 source_file: "templates/world/Middle_East_decoded.xml"
+tags: ["world", "geography", "map", "template", "drawio"]
 ---
 
 # Middle East Diagram

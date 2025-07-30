@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "templates/engineering"
 type: "diagram"
 source_file: "templates/engineering/electrical_2_decoded.xml"
+tags: ["circuit", "engineering", "template", "technical", "electrical", "drawio"]
 ---
 
 # Electrical 2 Diagram

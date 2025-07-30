@@ -4,6 +4,7 @@ description: "A user interface wireframe showing layout and structure"
 category: "templates/software"
 type: "wireframe"
 source_file: "templates/software/component_2_decoded.xml"
+tags: ["development", "software", "template", "architecture", "drawio"]
 ---
 
 # Component 2 Wireframe

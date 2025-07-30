@@ -4,6 +4,7 @@ description: "A network topology diagram showing infrastructure components"
 category: "templates/maps"
 type: "network"
 source_file: "templates/maps/site_map_1_decoded.xml"
+tags: ["mindmap", "conceptual", "map", "template", "drawio", "maps"]
 ---
 
 # Site Map 1 Network

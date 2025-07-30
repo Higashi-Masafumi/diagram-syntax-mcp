@@ -4,6 +4,7 @@ description: "A user interface wireframe showing layout and structure"
 category: "templates/layout"
 type: "wireframe"
 source_file: "templates/layout/google_wireframe_decoded.xml"
+tags: ["ui", "template", "design", "layout", "wireframe", "drawio"]
 ---
 
 # Google Wireframe Wireframe

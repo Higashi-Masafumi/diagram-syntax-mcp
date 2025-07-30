@@ -4,6 +4,7 @@ description: "A UML class diagram showing class relationships and structure"
 category: "templates/uml"
 type: "class"
 source_file: "templates/uml/uml_3_decoded.xml"
+tags: ["software", "template", "modeling", "drawio", "uml"]
 ---
 
 # Uml 3 Class

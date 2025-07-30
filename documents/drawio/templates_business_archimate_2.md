@@ -4,6 +4,7 @@ description: "A sequence diagram illustrating interactions between objects over 
 category: "templates/business"
 type: "sequence"
 source_file: "templates/business/archimate_2_decoded.xml"
+tags: ["process", "template", "business", "drawio", "workflow"]
 ---
 
 # Archimate 2 Sequence

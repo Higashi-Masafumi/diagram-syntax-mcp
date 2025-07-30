@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "blog"
 type: "diagram"
 source_file: "blog/translation-task-flowchart_decoded.xml"
+tags: ["blog", "process", "flowchart", "article", "drawio"]
 ---
 
 # Translation Task Flowchart Diagram

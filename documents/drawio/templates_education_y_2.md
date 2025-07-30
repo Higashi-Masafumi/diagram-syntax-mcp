@@ -4,6 +4,7 @@ description: "A diagram diagram template"
 category: "templates/education"
 type: "diagram"
 source_file: "templates/education/y_2_decoded.xml"
+tags: ["template", "academic", "education", "drawio", "learning"]
 ---
 
 # Y 2 Diagram
