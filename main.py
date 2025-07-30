@@ -51,8 +51,6 @@ def parse_frontmatter(content: str) -> tuple[FileMetadata, str]:
         return FileMetadata(), content
 
 
-
-
 def get_files_with_metadata() -> list[FileWithMetadata]:
     """Get list of all files with their metadata."""
     files: list[FileWithMetadata] = []
@@ -91,8 +89,6 @@ def get_files_with_metadata() -> list[FileWithMetadata]:
         files, key=lambda x: (x.category, x.filename)
     )
     return sorted_files
-
-
 
 
 @mcp.tool()
@@ -163,25 +159,25 @@ def list_files_by_category(category: CategoryType | None = None) -> str:
     if not filtered_files:
         return f"No files found for category '{category}'."
 
-    result: list[str] = [f"Files in category '{category}':\n"]
+    result_by_category: list[str] = [f"Files in category '{category}':\n"]
 
     for file_info in filtered_files:
-        result.append(f"{file_info.filename}")
-        result.append(f"   Path: {file_info.path}")
+        result_by_category.append(f"{file_info.filename}")
+        result_by_category.append(f"   Path: {file_info.path}")
 
         if file_info.error:
-            result.append(f"   Error: {file_info.error}")
+            result_by_category.append(f"   Error: {file_info.error}")
         else:
             metadata: FileMetadata = file_info.metadata
             if metadata.title:
-                result.append(f"   Title: {metadata.title}")
+                result_by_category.append(f"   Title: {metadata.title}")
             if metadata.description:
-                result.append(f"   Description: {metadata.description}")
+                result_by_category.append(f"   Description: {metadata.description}")
             if metadata.type:
-                result.append(f"   Type: {metadata.type}")
+                result_by_category.append(f"   Type: {metadata.type}")
             if metadata.tags:
-                result.append(f"   Tags: {metadata.tags}")
-        result.append("")  # Add blank line between files
+                result_by_category.append(f"   Tags: {metadata.tags}")
+        result_by_category.append("")  # Add blank line between files
 
     return "\n".join(result)
 
